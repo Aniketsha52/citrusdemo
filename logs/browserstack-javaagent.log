@@ -1,0 +1,69 @@
+18:54:31.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+18:54:31.561 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+18:54:31.810 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+18:54:31.813 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Aniket Kumar\eclipse-workspace\citrusdemo\browserstack.yml
+18:54:31.901 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+18:54:31.901 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+18:54:34.395 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - worker.org.gradle.process.internal.worker.GradleWorkerMain 'Gradle Test Executor 10'
+18:54:34.396 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+18:54:34.405 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: none, Engine: none
+18:54:34.461 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: none, Engine: none from dependencies
+18:54:34.461 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: none
+18:54:34.461 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+18:54:34.462 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit5
+18:54:34.961 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-aps.browserstack.com","hub-euw.browserstack.com","hub-apse.browserstack.com"]
+18:54:35.176 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-aps.browserstack.com HUB IS: 208ms
+18:54:36.100 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 911ms
+18:54:37.148 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-apse.browserstack.com HUB IS: 1044ms
+18:54:37.153 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-aps.browserstack.com
+18:54:38.354 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+18:54:39.926 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+18:55:01.341 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/uhfshxp1tbqihitmlhp71ta3b8gcsjzftarlgab2 to view build report, insights, and many more debugging information all at one place!
+
+18:55:01.822 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+19:01:37.564 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+19:01:37.567 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:01:37.816 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:01:37.819 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Aniket Kumar\eclipse-workspace\citrusdemo\browserstack.yml
+19:01:37.904 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+19:01:37.905 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:01:40.394 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - worker.org.gradle.process.internal.worker.GradleWorkerMain 'Gradle Test Executor 13'
+19:01:40.395 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+19:01:40.401 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: none, Engine: none
+19:01:40.456 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: none, Engine: none from dependencies
+19:01:40.457 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: none
+19:01:40.457 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+19:01:40.457 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit5
+19:01:41.249 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-aps.browserstack.com","hub-euw.browserstack.com","hub-apse.browserstack.com"]
+19:01:41.451 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-aps.browserstack.com HUB IS: 196ms
+19:01:42.544 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 1080ms
+19:01:43.716 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-apse.browserstack.com HUB IS: 1168ms
+19:01:43.721 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-aps.browserstack.com
+19:01:44.366 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+19:01:46.043 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:02:08.110 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/13phsf84hkw3zrt4invena17lc79p3syb0ewc0nb to view build report, insights, and many more debugging information all at one place!
+
+19:02:08.558 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
+19:07:14.755 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+19:07:14.759 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+19:07:15.012 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+19:07:15.015 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Aniket Kumar\eclipse-workspace\citrusdemo\browserstack.yml
+19:07:15.106 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+19:07:15.106 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:07:17.714 [main] INFO  c.b.utils.FrameworkDetectionUtils - Java command - worker.org.gradle.process.internal.worker.GradleWorkerMain 'Gradle Test Executor 14'
+19:07:17.714 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Test classes detected: 
+19:07:17.720 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: none, Engine: none
+19:07:17.776 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Runner: none, Engine: none from dependencies
+19:07:17.776 [main] DEBUG c.b.utils.FrameworkDetectionUtils - Detected final framework as: none
+19:07:17.776 [main] DEBUG c.browserstack.BrowserStackJavaAgent - JavaAgent Version 1.13.5
+19:07:17.776 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to junit5
+19:07:18.246 [Thread-1] DEBUG c.browserstack.utils.UtilityMethods - NEXT HUBS ARE: ["hub-aps.browserstack.com","hub-euw.browserstack.com","hub-apse.browserstack.com"]
+19:07:18.723 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-aps.browserstack.com HUB IS: 474ms
+19:07:19.695 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-euw.browserstack.com HUB IS: 958ms
+19:07:20.817 [main] DEBUG c.browserstack.utils.UtilityMethods - EXECUTION TIME OF hub-apse.browserstack.com HUB IS: 1118ms
+19:07:20.821 [main] DEBUG c.browserstack.utils.UtilityMethods - NEAREST HUB ALLOCATED IS - hub-aps.browserstack.com
+19:07:21.322 [main] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestAttempted response - {"message":"SDK Event recorded successfully"}
+19:07:22.966 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+19:07:46.953 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gqrig4uouzjqvquedwywthrkkx3ks34tyagruw1k to view build report, insights, and many more debugging information all at one place!
+
+19:07:47.932 [Thread-0] DEBUG c.b.utils.FunnelInstrumentation - API Event SDKTestSuccessful response - {"message":"SDK Event recorded successfully"}
